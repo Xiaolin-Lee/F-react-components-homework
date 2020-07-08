@@ -16,7 +16,6 @@ class Chat extends Component {
     };
 
     this.handleMessage = this.handleMessage.bind(this);
-    this.replyMessage = this.replyMessage.bind(this);
   }
 
   componentDidMount() {
